@@ -1,0 +1,33 @@
+h1{
+  color:#006633;
+  font-size: 40px;
+  text-align: center;
+}
+.secondh1{
+  color:#330066;
+  font-size:15px;
+  text-align: center;
+}
+
+.secondh1.hover{
+  color:#330066;
+  font-size:15px;
+  text-align: center;
+}
+
+
+#images{
+    text-align:center;
+    margin:50px auto;
+}
+#images a{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+ }
+
+
+ #box {
+   animation-name: color-change;
+ }
