@@ -106,7 +106,7 @@ while $ins == "i"
 
     when 3
       ttransf
-      puts "Would you like to have another transaction? [y/n]"
+      puts "Would you like to have another transaction? [y/n]
       sss = gets.chomp.downcase
       if sss=='y'
         system 'cls'
